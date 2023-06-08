@@ -5,4 +5,5 @@ data class LoanRequestDto(
     val userName: String,
     val userIncomeAmount: Long,
     var userRegistrationNumber: String
+
 )
